@@ -2,6 +2,7 @@
 
 _When this is false this doc is ready for community input_
 
+Primary Author: Brant Barger
 ## Testing Tools
 
 http://jasmine.github.io/
